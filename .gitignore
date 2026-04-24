@@ -4,3 +4,7 @@ coverage/
 *.log
 backend/.env
 backend/__pycache__/
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
